@@ -21,6 +21,7 @@
         <module>talent-acquisition-service</module>
         <module>notification-service</module>
         <module>reporting-audit-service</module>
+        <module>gateway-service</module>
     </modules>
 
     <properties>
